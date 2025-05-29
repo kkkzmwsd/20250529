@@ -1,0 +1,17 @@
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>問題</title>
+</head>
+<body>
+    <h1>問89</h1>
+    <p>湘南工科大学の旧名は？</p><p>
+(A)相模工業高等大学</p><p>
+(B)相模工業大学</p><p>
+(C)相模大学</p>
+
+<!DOCTYPE html>
+</p>
+</body>
+</html>
+<!-- （C） -->

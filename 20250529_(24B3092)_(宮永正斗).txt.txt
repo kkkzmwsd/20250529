@@ -1,0 +1,137 @@
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>問題</title>
+</head>
+<body>
+    <h1>問1</h1>
+    <p>湘南工科大学</p><p>
+(A)ドローンかつ丼</p><p>
+(B)宇宙カレー</p><p>
+(C)日替わり定食</p>
+
+<!DOCTYPE html>
+</p>
+</body>
+</html>
+<!-- 日替わり定食-->
+
+
+
+
+
+
+
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>問題</title>
+</head>
+<body>
+    <h1>問2</h1>
+    <p 湘南工科大学が開発に取り組む「空飛ぶロボット」で特に重視しているテーマは？</p><p>
+(A)エンタメ性（ダンスや音楽）</p><p>
+(B)自律性と安全性</p><p>
+(C)大きなLEDでの光演出</p>
+
+<!DOCTYPE html>
+</p>
+</body>
+</html>
+
+<!-- 自律性と安全性 -->
+
+
+
+
+
+
+
+
+
+
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>問題</title>
+</head>
+<body>
+    <h1>問3</h1>
+    <p>ドローンが“自分の位置”を知るために使う方法として正しくないものはどれ？</p><p>
+(A)GPS（衛星測位）</p><p>
+(B)地磁気センサー</p><p>
+(C)音声認識</p>
+
+<!DOCTYPE html>
+</p>
+</body>
+</html>
+<!-- 音声認識 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>問題</title>
+</head>
+<body>
+    <h1>問4</h1>
+    <p>室内飛行ロボットコンテストで「完全自律飛行」とは何を意味する？く</p><p>
+(A)操縦者が何もしないで動くこと</p><p>
+(B)音声で命令して動くこと</p><p>
+(C)AIが人の表情を読んで動くこと</p>
+
+<!DOCTYPE html>
+</p>
+</body>
+</html>
+<!-- 操縦者が何もしないで動くこと -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>問題</title>
+</head>
+<body>
+    <h1>問5</h1>
+    <p>次のうち、ロボットの「アクチュエータ」に分類されるのはどれ？</p><p>
+(A)モーター</p><p>
+(B)センサー</p><p>
+(C)マイコン</p>
+
+<!DOCTYPE html>
+</p>
+</body>
+</html>
+<!-- モーター -->
